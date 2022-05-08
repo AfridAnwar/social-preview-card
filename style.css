@@ -108,11 +108,7 @@ main {
 .anne {
   margin-top: 80px;
 }
-@media (max-width: 1200px) {
-  main {
-    max-width: fit-content;
-  }
-}
+
 @media (max-width: 800px) {
   body {
     margin: 0;
